@@ -1,6 +1,10 @@
 # wai-annotations-indexedpng
 wai.annotations module for managing image segmentation annotations using indexed PNG files.
 
+The manual is available here:
+
+https://ufdl.cms.waikato.ac.nz/wai-annotations-manual/
+
 ## Plugins
 ### FROM-INDEXED-PNG-IS
 Reads image segmentation files in the indexed-PNG format
