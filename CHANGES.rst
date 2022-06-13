@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.1 (????-??-??)
+1.0.1 (2022-06-13)
 ------------------
 
 - `FromIndexedPNG` class now outputs logging message if setting of new annotation indices fails, as error
